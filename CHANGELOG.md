@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/ishnmu/demo-release-please/compare/v1.0.0...v2.0.0) (2023-11-20)
+
+
+### ⚠ BREAKING CHANGES
+
+* **greet:** modify greet to good morning
+
+### Bug Fixes
+
+* **greet:** modify greet to good morning ([86caeee](https://github.com/ishnmu/demo-release-please/commit/86caeeee5c9b62532e70da856bf4bd749254732a))
+
 ## 1.0.0 (2023-11-20)
 
 
