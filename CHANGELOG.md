@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.1.0](https://github.com/ishnmu/demo-release-please/compare/v2.0.0...v2.1.0) (2023-11-20)
+
+
+### Features
+
+* add awesomness ([295c9fe](https://github.com/ishnmu/demo-release-please/commit/295c9fe8219404e3a3a129a023bc1fb3cf16965b))
+
+
+### Bug Fixes
+
+* **greet:** fix message ([33dfd0d](https://github.com/ishnmu/demo-release-please/commit/33dfd0d536f2e19db67b6d6be73e97d6fad4a4bf))
+* **greet:** fix message 1 ([dd16f18](https://github.com/ishnmu/demo-release-please/commit/dd16f1861c77fcc09d38d9a76275a780bdadfaed))
+
 ## [2.0.0](https://github.com/ishnmu/demo-release-please/compare/v1.0.0...v2.0.0) (2023-11-20)
 
 
