@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.2.0](https://github.com/ishnmu/demo-release-please/compare/v2.1.0...v2.2.0) (2023-11-21)
+
+
+### Features
+
+* added something big ([8f078bb](https://github.com/ishnmu/demo-release-please/commit/8f078bb660598fd176aa8cfd51c225e07b14507c))
+
+
+### Bug Fixes
+
+* fixed something small ([bbffa08](https://github.com/ishnmu/demo-release-please/commit/bbffa08e5167b45c35e5f67a08b900725825a636))
+
 ## [2.1.0](https://github.com/ishnmu/demo-release-please/compare/v2.0.0...v2.1.0) (2023-11-20)
 
 
